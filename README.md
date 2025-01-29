@@ -1,51 +1,28 @@
-Capstone Project: Re-innovating Business Practices for ABC Academy of Music 
+# Capstone Project: Re-innovating Business Practices for ABC Academy of Music
 
-Author: Group 4
-       1. Anjali Joshi
-       2. Krina Patel
-       3. Shuvam Jaggi
-       4. Srinivas Kyatam
-       5. Tanvi Ajmera
 
-1) INTRODUCTORY INFORMATION:
+## Introductory Information
+- **q1_revenue_analysis**: R codes for the analysis of question 1
+- **q2_churn_analysis**: R codes for the analysis of question 2
+- **q3_marketing_email_analysis**: R codes for the analysis of question 3
 
-i. group_4_project_report: Project Report
-ii. q1_revenue_analysis: R codes for the analysis of question 1.
-iii. q2_churn_analysis: R codes for the analysis of question 2.
-iv. q3_marketing_email_analysis: R codes for the analysis of question 3.
+## Software and Package Versions
+- **R version 4.3.2 (2023-10-31 ucrt)**
+- **Microsoft Excel Version 2410 Build 16.0.18129.20158 64-bit**
+- **DB Browser for SQLite Version 3.12.2**
+  - Built for x86_64-little_endian-llp64, running on x86_64 Qt Version 5.12.8
 
-2) SOFTWARE AND PACKAGE VERSIONS:
+## How to Run the Code
+- Download the codes for all 3 questions.
+- Open the codes and change the file path accordingly.
+- Run the codes.
 
-For this project, we used different tools such as R, Excel, and SQL 
-
- "R version 4.3.2 (2023-10-31 ucrt)"
-
-   Microsoft Excel 
-Version 2410
-Build 16.0.18129.20158  64-bit 
- 
- DB Browser for SQLite Version 3.12.2
-
-Built for x86_64-little_endian-llp64, running on x86_64
-Qt Version 5.12.8
-
-3) HOW TO RUN THE CODE:
-
-i. Download the codes for all 3 questions.
-ii. Open codes and change the file path accordingly.
-iii. Run the codes.
-
-4) TESTING:
-
+## Testing
 The project code was developed and tested on Windows and runs without errors.
 
-5) KNOWN ISSUES:
 
-NA
+## Sources, References, and Attributions
+Our main sources of reference for this project were:
+- [Stack Overflow](https://stackoverflow.com)
+- [Official R Documentation](https://cran.r-project.org/)
 
-6) SOURCES, REFERENCES, and ATTRIBUTIONS:
-
-Our main source of reference for this project were:
-
-1. Stack overflow - https://stackoverflow.com
-2. Official R documentation - https://cran.r-project.org/
